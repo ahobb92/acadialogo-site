@@ -1,0 +1,20 @@
+.nav-link {
+    font-family: "cambria", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    color: #E5E7E6;
+  }
+  
+  .nav-link:hover {
+    color: #FFF000;
+  }
+  
+  .logo {
+    width: 200px;
+  }
+  
+  .bg-custom {
+    background-color: #8A3324;
+  }
+  
