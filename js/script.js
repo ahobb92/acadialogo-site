@@ -1,6 +1,7 @@
-$(document).ready(function () {
-    $("#toggleInfo").click(function () {
-      $("#extraInfo").slideToggle();
+$(document).ready(function(){
+    $('#toggleInfo').click(function(){
+      $('#extraInfo').slideToggle();
     });
   });
+  
   
