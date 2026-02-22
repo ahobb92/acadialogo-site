@@ -59,10 +59,10 @@
     }
   }
   
-  .card img {
-    height: 250px;
-    object-fit: cover;
-  }
+.card img {
+  height: 250px;
+  object-fit: cover;
+}
   
   section h3 {
     font-weight: 600;
